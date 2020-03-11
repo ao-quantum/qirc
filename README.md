@@ -1,2 +1,2 @@
 # qirc
- An Open Source Chat App. All under your control.
+ An Open Source IRC server. All under your control.
