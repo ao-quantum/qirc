@@ -1,4 +1,5 @@
 {
+    "hostname": "localhost",
     "port": 4040,
     "channels": [
         "#general",
