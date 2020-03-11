@@ -1,0 +1,14 @@
+{
+    "port": 4040,
+    "channels": [
+        "#general",
+        "#spam",
+        "#another_one"
+    ],
+    "panel": {
+        "enabled": true,
+        "path": "/admin",
+        "port": 80,
+        "hostname": "localhost"
+    }
+}
